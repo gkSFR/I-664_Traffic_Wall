@@ -4,7 +4,7 @@ A real-time traffic camera wall and map designed for incident response. This too
 
 ---
 
-## 📲 Installation Instructions
+##  Installation Instructions
 
 ### iPhone (iOS)
 1. Launch **Safari** and navigate to your GitHub Pages URL.
@@ -22,7 +22,7 @@ A real-time traffic camera wall and map designed for incident response. This too
 
 ---
 
-## 🛠 Features for Patrol
+##  Features for Patrol
 * **Live Camera Grid**: HLS streams for the MMBT and I-664 corridor.
 * **Integrated Street Map**: Simple, high-contrast street map with verified GPS locations.
 * **Auto-Reset Map**: Every time the **MAP** tab is clicked, it clears active videos and recenters the view.
@@ -31,7 +31,7 @@ A real-time traffic camera wall and map designed for incident response. This too
 
 ---
 
-## ⚠️ Troubleshooting
+##  Troubleshooting
 * **Black Boxes on Map**: Ensure you close the current map video before clicking another pin (though the code is designed to auto-kill previous streams).
 * **Buffering**: If video freezes during tower handoffs while driving, tap the **SYNC** button in the bottom nav.
 * **Map Not Loading**: Ensure you have an active data connection; the map tiles require internet access to render.
