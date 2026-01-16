@@ -24,7 +24,7 @@ A real-time traffic camera wall and map designed for incident response. This too
 
 ---
 
-##  Features for Patrol
+##  Features
 * **Live Camera Grid**: HLS streams for the MMBT and I-664 corridor.
 * **Integrated Street Map**: Simple, high-contrast street map with verified GPS locations.
 * **Auto-Reset Map**: Every time the **MAP** tab is clicked, it clears active videos and recenters the view.
