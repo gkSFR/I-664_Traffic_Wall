@@ -1,6 +1,6 @@
 # SFR EnRoute Traffic Hub V.1.0.2
 
-A real-time traffic camera wall and map designed for incident response. This tool is a **Progressive Web App (PWA)**, allowing it to be installed on mobile devices for a native, fullscreen experience.
+A real-time traffic camera wall and map designed for incident response. This tool is a **Progressive Web App (PWA)**, allowing it to be installed on mobile devices or desktop for a native, fullscreen viewing.
 
 ---
 
@@ -30,7 +30,7 @@ This option creates a desktop icon that opens EnRoute in its own app-style windo
 
 1. **Right-click** on your desktop → **New** → **Shortcut**
 2. For the location, paste:
-    #**"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --app="https://gksfr.github.io/EnRoute/" --user-data-dir="%LOCALAPPDATA%\EnRouteApp" --start-maximized**
+    ### "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --app="https://gksfr.github.io/EnRoute/" --user-data-dir="%LOCALAPPDATA%\EnRouteApp" --start-maximized
 3. Click **Next**
 4. Name it: **SFR EnRoute** (or whatever you prefer)
 5. Click **Finish**
